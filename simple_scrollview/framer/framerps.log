@@ -1,0 +1,16 @@
+{"docName":"simple_scrollview","path":"~/Dropbox/2014/design/svbtle_blog/03/simple_scrollview","relativeImagePath":"images","imagePath":"~/Dropbox/2014/design/svbtle_blog/03/simple_scrollview/images","framerPath":"~/Dropbox/2014/design/svbtle_blog/03/simple_scrollview/framer","viewInfoPath":"~/Dropbox/2014/design/svbtle_blog/03/simple_scrollview/framer/views.simple_scrollview.js","logPaths":["/tmp/framerps.log","~/Dropbox/2014/design/svbtle_blog/03/simple_scrollview/framer/framerps.log"]}
+
+Running for ~/Dropbox/2014/design/svbtle_blog/03/simple_scrollview
+Feed: Exporting image
+Nav Bar: Exporting image
+PROGRESS: 66.6666666666667
+Body scroll: Calculating vector mask bounds
+PROGRESS: 100
+PROGRESS: 100
+3 views changed
+Skipping ~/Dropbox/2014/design/svbtle_blog/03/simple_scrollview/index.html (exists)
+Skipping ~/Dropbox/2014/design/svbtle_blog/03/simple_scrollview/app.js (exists)
+Skipping ~/Dropbox/2014/design/svbtle_blog/03/simple_scrollview/framer/framer.js (exists)
+Skipping ~/Dropbox/2014/design/svbtle_blog/03/simple_scrollview/framer/framerps.js (exists)
+
+SUCCESS: ~/Dropbox/2014/design/svbtle_blog/03/simple_scrollview
